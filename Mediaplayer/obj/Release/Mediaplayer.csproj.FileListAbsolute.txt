@@ -1,0 +1,13 @@
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Release\Mediaplayer.exe.config
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Release\Mediaplayer.exe
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Release\Mediaplayer.pdb
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\MainWindow.baml
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\MainWindow.g.cs
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\App.g.cs
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer_MarkupCompile.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.g.resources
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.Properties.Resources.resources
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.csproj.GenerateResource.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.exe
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Release\Mediaplayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.exe.config
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.exe
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\bin\Debug\Mediaplayer.pdb
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.csprojAssemblyReference.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\MainWindow.g.cs
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\App.g.cs
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer_MarkupCompile.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\MainWindow.baml
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.g.resources
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.Properties.Resources.resources
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.csproj.GenerateResource.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.exe
+C:\Users\Dennis\source\repos\Mediaplayer\Mediaplayer\obj\Debug\Mediaplayer.pdb
